@@ -1,0 +1,10 @@
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\PixelizadorLokasso\PixelizadorLokasso\bin\Release\PixelizadorLokasso.exe.config
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\PixelizadorLokasso\PixelizadorLokasso\bin\Release\PixelizadorLokasso.exe
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\PixelizadorLokasso\PixelizadorLokasso\bin\Release\PixelizadorLokasso.pdb
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\PixelizadorLokasso\PixelizadorLokasso\obj\Release\PixelizadorLokasso.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\PixelizadorLokasso\PixelizadorLokasso\obj\Release\PixelizadorLokasso.Form1.resources
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\PixelizadorLokasso\PixelizadorLokasso\obj\Release\PixelizadorLokasso.Properties.Resources.resources
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\PixelizadorLokasso\PixelizadorLokasso\obj\Release\PixelizadorLokasso.csproj.GenerateResource.cache
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\PixelizadorLokasso\PixelizadorLokasso\obj\Release\PixelizadorLokasso.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\PixelizadorLokasso\PixelizadorLokasso\obj\Release\PixelizadorLokasso.exe
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\PixelizadorLokasso\PixelizadorLokasso\obj\Release\PixelizadorLokasso.pdb
